@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627b04df-7af1-4165-a9a0-4e1600e261d2" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/001_print_hello.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/006_backtick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,26 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/001_print_hello.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/006_backtick.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,7 +30,7 @@
         <option value="sojin13" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,8 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="944" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="59" />
+    <option name="y" value="1" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -72,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,10 +64,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -101,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.001_print_hello.js">
     <configuration name="001_print_hello.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/001_print_hello.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -127,17 +109,19 @@
       <updated>1552351306353</updated>
       <workItem from="1552351308604" duration="1191000" />
       <workItem from="1552370260274" duration="4527000" />
+      <workItem from="1552972720224" duration="71000" />
+      <workItem from="1553648513131" duration="2000" />
+      <workItem from="1554252804330" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5718000" />
+    <option name="totallyTimeSpent" value="6474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="944" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="59" y="1" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19551282" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19551282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,17 +148,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/006_backtick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/001_print_hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/006_backtick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
         </state>
       </provider>
     </entry>
